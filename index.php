@@ -28,24 +28,8 @@
                     <!-- navigation -->
                     <div class="site-nav-ul-wrap text-center d-none d-lg-block">
                         <ul class="site-nav-ul js-clone-nav">
-                            <li class="has-children"><a href="index.html">HOME</a></li>
-                            <li class="has-children"><a href="gucci.html">GUCCI</a></li>
                             <li class="has-children">
-                                <a href="rooms.html">CHANEL</a>
-                            </li>
-                            <li class="has-children">
-                                <a href="rooms.html">YSL</a>
-                            </li>
-
-                            <li class="has-children">
-                                <a href="rooms.html">DIOR</a>
-                            </li>
-
-                            <li class="has-children">
-                                <a href="rooms.html">CELINE</a>
-                            </li>
-                            <li class="has-children">
-                                <a href="rooms.html">LV</a>
+                                <a href="index.html">HOME</a>
                             </li>
                             <li class="has-children">
                                 <a href="signup.php" target="_blank">SIGN UP</a>
@@ -280,6 +264,7 @@
                                     </div>
                                 </div>
                             </div>
+
                         </div>
                     </div>
                 </div>

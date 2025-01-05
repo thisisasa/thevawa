@@ -64,7 +64,7 @@
                     </div>
                 </div>
 
-                <div class="untree_co--site-hero overlay" style="background-image: url('images/jsoo.jpg')">
+                <div class="untree_co--site-hero overlay" style="background-image: url('images/hands.jpg')">
                     <div class="container">
                         <div class="row align-items-center justify-content-center">
                             <div class="col-md-7">
@@ -76,7 +76,7 @@
                     </div>
                 </div>
 
-                <div class="untree_co--site-hero overlay" style="background-image: url('images/hands.jpg')">
+                <div class="untree_co--site-hero overlay" style="background-image: url('images/lisa.jpg')">
                     <div class="container">
                         <div class="row align-items-center justify-content-center">
                             <div class="col-md-10">

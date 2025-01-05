@@ -113,7 +113,7 @@
                                 <div class="image-stack-item image-stack-item-top">
                                     <div class="overlay"></div>
                                     <video autoplay loop controls alt="" class="img-fluid pic2">
-                            <source src="video/Rosé VOGUE x Saint Laurent Beauty.mp4" type="video/mp4">
+                            <source src="video/rosie.mp4" type="video/mp4">
                         </video>
                                 </div>
                             </div>
